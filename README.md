@@ -6,7 +6,7 @@
 Membuat aplikasi Tooko Belanja yang dimana pada aplikasi ini terdapat seorang admin dan banyak customer. Yang memiliki wewenang untuk melakukan proses CRUD terhadap category dan product hanyalah admin saja. Seangkan customer hanya bisa melakukan proses pembelian product dan melihat data transaksi pembeliannya. Customer juga dapat melakukan top-up saldo untuk menambahkan saldonya.
 
 ## Link App
-App Upstream at: [https://finalproject3-production-68e9.up.railway.app/]
+App Upstream at: [https://finalproject3-production-68e9.up.railway.app/](https://finalproject3-production-0e48.up.railway.app/)
 
 ## Group 9
 
